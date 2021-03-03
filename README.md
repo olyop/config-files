@@ -1,1 +1,1 @@
-# template-2021
+# typescript-template
