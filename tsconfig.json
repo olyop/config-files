@@ -1,8 +1,8 @@
 {
-  "compilerOptions": {
-    "module": "ESNext",
+	"compilerOptions": {
+		"module": "ESNext",
 		"target": "ESNext",
-    "sourceMap": false,
+		"sourceMap": false,
 		"alwaysStrict": true,
 		"noImplicitAny": true,
 		"noImplicitThis": true,
@@ -17,5 +17,5 @@
 		"noFallthroughCasesInSwitch": true,
 		"strictPropertyInitialization": true,
 		"forceConsistentCasingInFileNames": true
-  }
+	}
 }
